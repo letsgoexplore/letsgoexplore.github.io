@@ -4,20 +4,20 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#conferences
+  # - title: "Conferences & Events"
+  #   url: ./#conferences
 
-  - title: "Publications"
-    url: ./#publications
+  # - title: "Publications"
+  #   url: ./#publications
 
-  - title: "Projects"
-    url: ./#projects
+  # - title: "Projects"
+  #   url: ./#projects
 
-  - title: "News"
-    url: ./#news
+  # - title: "News"
+  #   url: ./#news
 
   - title: "Blogs"
-    url: ./blog/
+    url: https://jasonzhao404.notion.site/Zhenyu-s-Blog-06a33bdc6fa74ef58fef0d362ace34b1?pvs=4
 
   - title: "Bio"
     url: ./#about-me

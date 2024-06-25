@@ -20,10 +20,6 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 ## Education
 - **Ph.D. in Mathematics**, 2024 - Present, [HKUST](https://www.universite-paris-saclay.fr/), Hongkong SAR, China
 - **B.E. in Automation**, 2020 - 2024, [Tsinghua University](https://www.au.tsinghua.edu.cn/en/), Beijing, China
-<!-- - **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf) -->
 
 ## Grants and Fellowships
 - **Postgraduate Studentship Award**, 2024-
@@ -36,13 +32,11 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %} -->
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
+<!-- {% include_relative _includes/conference.md %} -->
 
 {% include_relative _includes/contact.md %}
 
