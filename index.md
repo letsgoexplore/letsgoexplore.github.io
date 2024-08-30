@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://cryptofintechlabhk.net/), working under the mentorship of Prof. [Kani CHEN](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kani-chen-makchen). My research interests are centered around applied cryptography, distributed systems, and mechanism design, aiming to enhance the robustness, user accessibility, and interoperability of blockchain technologies.
+I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://cryptofintechlabhk.net/), working under the mentorship of Prof. [Kani CHEN](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kani-chen-makchen). Prior to that, I had the fortunate opportunity to receive guidance from Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/) at Tsinghua University, as well as Prof. [Fan Zhang](https://www.fanzhang.me/) at Yale University. My research interests are centered around applied cryptography, distributed systems, and mechanism design, aiming to enhance the robustness, user accessibility, and interoperability of blockchain technologies.
 
 <!-- ## Research Interest
 
