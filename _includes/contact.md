@@ -2,7 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
-<p><strong>Address:<strong>Office Location:</strong> Clearwater Bay, Kowloon, Hong Kong
+<p><strong>Address:</strong> Clearwater Bay, Kowloon, Hong Kong
 <br />
 <strong>Email:</strong> <email>jasonzhao404 (at) gmail.com</email>
 <br />
