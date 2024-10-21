@@ -26,6 +26,13 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 - **Postgraduate Studentship Award**, 2024-
 - **Tsinghua-Toyota Scolarship**, 2023
 
+## Publications
+
+- [ZIPNet: Low-bandwidth anonymous broadcast from (dis) Trusted Execution Environments](https://eprint.iacr.org/2024/1227.pdf)  
+  Michael Rosenberg, Maurice Shih, Zhenyu Zhao, Rui Wang, Ian Miers, Fan Zhang  
+  Cryptology ePrint Archive, 2024
+
+- 
 
 <!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
