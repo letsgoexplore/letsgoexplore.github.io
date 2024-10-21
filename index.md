@@ -32,8 +32,6 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
   Michael Rosenberg, Maurice Shih, Zhenyu Zhao, Rui Wang, Ian Miers, Fan Zhang  
   Cryptology ePrint Archive, 2024
 
-- 
-
 <!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
 - **The European Magnetism Association (EMA) Member**, 2021 - Present -->
