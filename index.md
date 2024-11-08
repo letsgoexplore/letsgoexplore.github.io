@@ -37,8 +37,8 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 
 ## Interesting Works
 
-- [A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication](https://assets-eu.researchsquare.com/files/rs-4799666/v1_covered_a4eaa3ba-6404-400e-98a7-ca19804d2494.pdf?c=1730098115)
-  Du, Jianbin and Xu, Peiqi and Zhao, Pengyang and Xia, Bo and Zhao, Zhenyu, 2024
+- [A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication](https://assets-eu.researchsquare.com/files/rs-4799666/v1_covered_a4eaa3ba-6404-400e-98a7-ca19804d2494.pdf?c=1730098115).
+  Peiqi Xu, Pengyang Zhao, Bo Xia, Zhenyu Zhao, Shuyang Zhang, Jianbin Du, 2024
 
 <!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
