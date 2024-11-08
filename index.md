@@ -18,11 +18,14 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 - **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics -->
 
 ## Education
+
 - **Ph.D. in Mathematics**, 2024 - Present, [HKUST](https://www.universite-paris-saclay.fr/), Hongkong SAR, China
 - **B.E. in Automation**, 2020 - 2024, [Tsinghua University](https://www.au.tsinghua.edu.cn/en/), Beijing, China
 
 ## Scholarship and Fellowships
+
 <!-- ## Grants and Fellowships -->
+
 - **Postgraduate Studentship Award**, 2024-
 - **Tsinghua-Toyota Scolarship**, 2023
 
@@ -31,6 +34,11 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 - [ZIPNet: Low-bandwidth anonymous broadcast from (dis) Trusted Execution Environments](https://eprint.iacr.org/2024/1227.pdf)  
   Michael Rosenberg, Maurice Shih, Zhenyu Zhao, Rui Wang, Ian Miers, Fan Zhang  
   Cryptology ePrint Archive, 2024
+
+## Interesting Works
+
+- [A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication](https://assets-eu.researchsquare.com/files/rs-4799666/v1_covered_a4eaa3ba-6404-400e-98a7-ca19804d2494.pdf?c=1730098115)
+  Du, Jianbin and Xu, Peiqi and Zhao, Pengyang and Xia, Bo and Zhao, Zhenyu, 2024
 
 <!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
@@ -47,4 +55,3 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 <!-- {% include_relative _includes/conference.md %} -->
 
 {% include_relative _includes/contact.md %}
-
