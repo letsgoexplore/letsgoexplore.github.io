@@ -35,9 +35,9 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
   Michael Rosenberg, Maurice Shih, Zhenyu Zhao, Rui Wang, Ian Miers, Fan Zhang  
   Proceedings on Privacy Enhancing Technologies, 2025.
 
-- pvpAMM: A perpetual market for unbalanced long-short positions  
+<!-- - pvpAMM: A perpetual market for unbalanced long-short positions  
   Zhenhang Shang, Zhenyu Zhao, Kani Chen
-  Financial Cryptography and Data Security, 2025.
+  Financial Cryptography and Data Security, 2025. -->
 
 ## Interesting Works
 
