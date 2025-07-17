@@ -35,14 +35,14 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
   Michael Rosenberg, Maurice Shih, Zhenyu Zhao, Rui Wang, Ian Miers, Fan Zhang  
   Proceedings on Privacy Enhancing Technologies, 2025.
 
-<!-- - pvpAMM: A perpetual market for unbalanced long-short positions  
+- pvpAMM: A perpetual market for unbalanced long-short positions  
   Zhenhang Shang, Zhenyu Zhao, Kani Chen
-  Financial Cryptography and Data Security, 2025. -->
+  The 7th International Conference on Advances in Financial Technologies, 2025.
 
 ## Interesting Works
 
 - [A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication](https://assets-eu.researchsquare.com/files/rs-4799666/v1_covered_a4eaa3ba-6404-400e-98a7-ca19804d2494.pdf?c=1730098115).
-  Peiqi Xu, Pengyang Zhao, Bo Xia, Zhenyu Zhao, Shuyang Zhang, Jianbin Du, 2024
+  Peiqi Xu, Pengyang Zhao, Bo Xia, Zhenyu Zhao, Shuyang Zhang, Jianbin Du, 2024.
 
 <!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
