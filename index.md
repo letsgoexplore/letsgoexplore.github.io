@@ -33,11 +33,11 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 
 - [ZIPNet: Low-bandwidth anonymous broadcast from (dis) Trusted Execution Environments](https://eprint.iacr.org/2024/1227.pdf)  
   Michael Rosenberg, Maurice Shih, Zhenyu Zhao, Rui Wang, Ian Miers, Fan Zhang  
-  Proceedings on Privacy Enhancing Technologies, 2025.
+  Proceedings on Privacy Enhancing Technologies(PoPETs), 2025.
 
 - pvpAMM: A perpetual market for unbalanced long-short positions  
-  Zhenhang Shang, Zhenyu Zhao, Kani Chen
-  The 7th International Conference on Advances in Financial Technologies, 2025.
+  Zhenhang Shang, Zhenyu Zhao, Kani Chen  
+  The 7th International Conference on Advances in Financial Technologies(AFT), 2025.
 
 ## Interesting Works
 
