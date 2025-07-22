@@ -19,7 +19,7 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 
 ## Education
 
-- **Ph.D. in Mathematics**, 2024 - Present, [HKUST](https://www.universite-paris-saclay.fr/), Hongkong SAR, China
+- **Ph.D. in Mathematics**, 2024 - Present, [HKUST](https://www.math.hkust.edu.hk/), Hongkong SAR, China
 - **B.E. in Automation**, 2020 - 2024, [Tsinghua University](https://www.au.tsinghua.edu.cn/en/), Beijing, China
 
 ## Scholarship and Fellowships
