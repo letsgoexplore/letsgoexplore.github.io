@@ -44,6 +44,11 @@ I am currently a Mathematics Ph.D. student at [HKUST Crypto-Fintech Lab](http://
 - [A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication](https://assets-eu.researchsquare.com/files/rs-4799666/v1_covered_a4eaa3ba-6404-400e-98a7-ca19804d2494.pdf?c=1730098115).
   Peiqi Xu, Pengyang Zhao, Bo Xia, Zhenyu Zhao, Shuyang Zhang, Jianbin Du, 2024.
 
+## Teaching
+
+- Fall 2025, Math2011 Introduction to Multivariable Calculus
+- Spring 2025, Math1014 Calculus II
+
 <!-- ## Professional Affiliations
 - **Marie Curie Alumni Association Member**, 2021 - Present
 - **The European Magnetism Association (EMA) Member**, 2021 - Present -->
